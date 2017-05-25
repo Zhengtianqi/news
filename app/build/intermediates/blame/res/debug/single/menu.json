@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\menu\\toolbar.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\menu\\toolbar.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

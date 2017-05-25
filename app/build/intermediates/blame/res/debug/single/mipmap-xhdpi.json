@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_home_red.png",
+        "source": "F:\\news\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_red.png"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_person_red.png",
+        "source": "F:\\news\\app\\src\\main\\res\\mipmap-xhdpi\\ic_person_red.png"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fanhui.png",
+        "source": "F:\\news\\app\\src\\main\\res\\mipmap-xhdpi\\fanhui.png"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\morelogo.png",
+        "source": "F:\\news\\app\\src\\main\\res\\mipmap-xhdpi\\morelogo.png"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "F:\\news\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_news_white.png",
+        "source": "F:\\news\\app\\src\\main\\res\\mipmap-xhdpi\\ic_news_white.png"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_person_white.png",
+        "source": "F:\\news\\app\\src\\main\\res\\mipmap-xhdpi\\ic_person_white.png"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_news_red.png",
+        "source": "F:\\news\\app\\src\\main\\res\\mipmap-xhdpi\\ic_news_red.png"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_home_white.png",
+        "source": "F:\\news\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_white.png"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_photo_white.png",
+        "source": "F:\\news\\app\\src\\main\\res\\mipmap-xhdpi\\ic_photo_white.png"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_photo_red.png",
+        "source": "F:\\news\\app\\src\\main\\res\\mipmap-xhdpi\\ic_photo_red.png"
+    }
+]

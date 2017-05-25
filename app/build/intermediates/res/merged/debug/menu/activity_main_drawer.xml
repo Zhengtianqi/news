@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_one"
+            android:icon="@drawable/ic_menu_one"
+            android:title="@string/qiandao" />
+        <item
+            android:id="@+id/nav_two"
+            android:icon="@drawable/ic_menu_two"
+            android:title="历史预定" />
+        <item
+            android:id="@+id/nav_three"
+            android:icon="@drawable/ic_menu_three"
+            android:title="最新浏览" />
+        <item
+            android:id="@+id/nav_forth"
+            android:icon="@drawable/ic_menu_forth"
+            android:title="订阅" />
+
+
+        <item
+            android:id="@+id/nav_five"
+            android:icon="@drawable/ic_menu_five"
+            android:title="设置" />
+    </group>
+</menu>

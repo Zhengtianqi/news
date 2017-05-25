@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\ebddd6b9fc608d388f11052064578af0f48f0cc4\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_msg_detail.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\activity_msg_detail.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\itemfooter.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\itemfooter.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\ebddd6b9fc608d388f11052064578af0f48f0cc4\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_photo_item.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\layout_photo_item.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\banner.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\a2e976c2e18538a470bd6e17479b37ab2d40b7de\\output\\res\\layout\\banner.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\ebddd6b9fc608d388f11052064578af0f48f0cc4\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\ebddd6b9fc608d388f11052064578af0f48f0cc4\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\ebddd6b9fc608d388f11052064578af0f48f0cc4\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_hint_popupwindow.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\item_hint_popupwindow.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\ebddd6b9fc608d388f11052064578af0f48f0cc4\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_container.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\7a433939a85b26f69a690d89aed740cbfb12a411\\output\\res\\layout\\bb_bottom_bar_item_container.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commonprogressdialog.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\commonprogressdialog.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\ebddd6b9fc608d388f11052064578af0f48f0cc4\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_home.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\item_home.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base_fragment.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\base_fragment.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_news.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\activity_news.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\ebddd6b9fc608d388f11052064578af0f48f0cc4\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jc_layout_base.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\d506476e1c3e558d8f408bba24b1636371d228fe\\output\\res\\layout\\jc_layout_base.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jc_progress_dialog.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\d506476e1c3e558d8f408bba24b1636371d228fe\\output\\res\\layout\\jc_progress_dialog.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jc_layout_standard.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\d506476e1c3e558d8f408bba24b1636371d228fe\\output\\res\\layout\\jc_layout_standard.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_shifting.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\7a433939a85b26f69a690d89aed740cbfb12a411\\output\\res\\layout\\bb_bottom_bar_item_shifting.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\ebddd6b9fc608d388f11052064578af0f48f0cc4\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dialog.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\activity_dialog.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\ebddd6b9fc608d388f11052064578af0f48f0cc4\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_1.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\fragment_1.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_container_tablet.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\7a433939a85b26f69a690d89aed740cbfb12a411\\output\\res\\layout\\bb_bottom_bar_item_container_tablet.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\ebddd6b9fc608d388f11052064578af0f48f0cc4\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_fixed_tablet.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\7a433939a85b26f69a690d89aed740cbfb12a411\\output\\res\\layout\\bb_bottom_bar_item_fixed_tablet.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\ebddd6b9fc608d388f11052064578af0f48f0cc4\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\person_fragment.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\person_fragment.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jc_volume_dialog.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\d506476e1c3e558d8f408bba24b1636371d228fe\\output\\res\\layout\\jc_volume_dialog.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\itemheader_banner.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\itemheader_banner.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_root_hintpopupwindow.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\item_root_hintpopupwindow.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\126f20fca7d32a137dc9f73b41a235c1e373591e\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_fixed.xml",
+        "source": "C:\\Users\\27049\\.android\\build-cache\\7a433939a85b26f69a690d89aed740cbfb12a411\\output\\res\\layout\\bb_bottom_bar_item_fixed.xml"
+    },
+    {
+        "merged": "F:\\news\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newsitem.xml",
+        "source": "F:\\news\\app\\src\\main\\res\\layout\\newsitem.xml"
+    }
+]

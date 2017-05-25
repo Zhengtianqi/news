@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">news</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">首页</string>
+    <string name="menu_news">新闻</string>
+    <string name="menu_photo">视频</string>
+    <string name="menu_person">个人中心</string>
+    <string name="login_userName">账号</string>
+    <string name="login_userPassword">密码</string>
+    <string name="login_button">登录</string>
+    <string name="login_register">注册</string>
+    <string name="title_activity_login">登录NiceNews</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">手机号</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录或注册</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_email">手机号不符合规范</string>
+    <string name="error_invalid_password">密码太短</string>
+    <string name="error_incorrect_password">密码不正确</string>
+    <string name="error_field_required">此项必须填</string>
+    <string name="permission_rationale">"请输入验证码"</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="shoucang">收藏</string>
+    <string name="pinglun">评论</string>
+    <string name="lixianxiazai">离线下载</string>
+    <string name="yejianmoshi">夜间模式</string>
+    <string name="fankui">反馈</string>
+
+    <string name="tuijian">推荐</string>
+    <string name="keji">科技</string>
+    <string name="qiche">汽车</string>
+    <string name="gaoxiao">搞笑</string>
+
+    <string name="d_text1">登录后保存阅读习惯</string>
+    <string name="d_text2">打造你的专属新闻</string>
+    <string name="d_phone_num">请输入账号</string>
+    <string name="d_phone_yanzheng">发送验证码</string>
+    <string name="d_phone_input">请输入密码</string>
+    <string name="d_noregin">未注册手机验证后自动登录</string>
+    <string name="d_go">进入NICE</string>
+
+    <string name="z_text1">注册您的账户</string>
+    <string name="z_text2">打造你的专属新闻</string>
+    <string name="z_phone_num">请输入手机号码</string>
+    <string name="z_phone_yanzheng">发送</string>
+    <string name="z_phone_input"> 请输入验证码</string>
+    <string name="z_noregin">未注册手机验证后自动登录</string>
+    <string name="z_go">注册NICE</string>
+
+    <string name="wangji">忘记密码？</string>
+    <string name="xinyong">新用户注册</string>
+    <string name="hehe">呵呵</string>
+    <string name="loading">loading...</string>
+    <string name="nicenews">nicenews</string>
+
+
+    <string name="share">Share</string>
+    <string name="qiandao">签到</string>
+    <string name="aaaaaaaa">aaaaaaaa</string>
+    <string name="welcome_to_nice_news">Welcome to nice news!</string>
+</resources>

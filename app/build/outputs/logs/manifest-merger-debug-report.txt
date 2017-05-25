@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\news\app\src\main\AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from F:\news\app\src\main\AndroidManifest.xml
+		INJECTED from F:\news\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\news\app\src\main\AndroidManifest.xml
+		INJECTED from F:\news\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\news\app\src\main\AndroidManifest.xml
+		INJECTED from F:\news\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from F:\news\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from F:\news\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from F:\news\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\news\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\news\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\news\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\news\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from [fm.jiecao:jiecaovideoplayer:4.8.3] C:\Users\27049\.android\build-cache\d506476e1c3e558d8f408bba24b1636371d228fe\output\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\news\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_LOGS
+ADDED from F:\news\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:14:22-65
+application
+ADDED from F:\news\app\src\main\AndroidManifest.xml:15:5-45:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\27049\.android\build-cache\1a750493eee72a89fe1535a28504fa29ffcfbf9c\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:23.3.0] C:\Users\27049\.android\build-cache\ebddd6b9fc608d388f11052064578af0f48f0cc4\output\AndroidManifest.xml:22:5-20
+MERGED from [fm.jiecao:jiecaovideoplayer:4.8.3] C:\Users\27049\.android\build-cache\d506476e1c3e558d8f408bba24b1636371d228fe\output\AndroidManifest.xml:15:5-17:38
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\27049\.android\build-cache\126f20fca7d32a137dc9f73b41a235c1e373591e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\27049\.android\build-cache\983ede0bfe95f728833f81887b7229ef4d677af6\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\27049\.android\build-cache\76d2dc4106e221733e86a2c3bc1e663554158123\output\AndroidManifest.xml:23:5-20
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] C:\Users\27049\.android\build-cache\f0bf1d2cd22d792b94de318424172d4c1e0145ec\output\AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\27049\.android\build-cache\1b886a93d2e8d5662cc9ca3282e30ba8a1020ab9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\27049\.android\build-cache\f04540674ea438530a7f6c2e25453e80e15890ed\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\27049\.android\build-cache\7191091c3061059fadb6a9c689a1cce3d07f1ba9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\27049\.android\build-cache\cae68cb0a2e3ae63c29b171fa7d225961cd705d9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\27049\.android\build-cache\666f090ba0ffbb0351d7f5475644b58ae5a99ef3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\27049\.android\build-cache\8c7380fd396ea7a20751ed3c6ecf57578fbf039a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\27049\.android\build-cache\beaa8fa082ca7396c126dc6c5149acda29c2efb2\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:18:9-41
+	android:supportsRtl
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:19:9-35
+	android:allowBackup
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:17:9-43
+	android:theme
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:20:9-40
+activity#chinasoft.com.news.SplashActivity
+ADDED from F:\news\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:21:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\news\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from F:\news\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\news\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:25:27-74
+activity#chinasoft.com.news.MainActivity
+ADDED from F:\news\app\src\main\AndroidManifest.xml:28:9-32:20
+	android:label
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:30:13-45
+	android:theme
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:29:13-41
+activity#chinasoft.com.news.LoginActivity
+ADDED from F:\news\app\src\main\AndroidManifest.xml:33:9-35:20
+	android:label
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:33:19-48
+activity#chinasoft.com.news.RegisterActivity
+ADDED from F:\news\app\src\main\AndroidManifest.xml:36:9-38:20
+	android:label
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:36:19-51
+activity#chinasoft.com.news.MsgDetailActivity
+ADDED from F:\news\app\src\main\AndroidManifest.xml:39:9-41:20
+	android:name
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:39:19-52
+activity#chinasoft.com.news.WebActivity
+ADDED from F:\news\app\src\main\AndroidManifest.xml:42:9-44:20
+	android:name
+		ADDED from F:\news\app\src\main\AndroidManifest.xml:42:19-46
+uses-sdk
+INJECTED from F:\news\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.roughike:bottom-bar:1.3.9] C:\Users\27049\.android\build-cache\7a433939a85b26f69a690d89aed740cbfb12a411\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\27049\.android\build-cache\1a750493eee72a89fe1535a28504fa29ffcfbf9c\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:23.3.0] C:\Users\27049\.android\build-cache\ebddd6b9fc608d388f11052064578af0f48f0cc4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\27049\.android\build-cache\7359ecd1be8a948633bf7d9820d6cef4a10ac134\output\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fresco:0.13.0] C:\Users\27049\.android\build-cache\a8003ec3f25054df1ff20772b1141b03d7857f48\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.13.0] C:\Users\27049\.android\build-cache\c87bf016b4973f5167b5baefc088375a6d512d37\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.13.0] C:\Users\27049\.android\build-cache\a5323db4b5aa2cd6555d61b68f314160a0110425\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.13.0] C:\Users\27049\.android\build-cache\fb464314108d56f3631199ad8f4d955b46d48bb8\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.13.0] C:\Users\27049\.android\build-cache\78c1bd4e96f8b4194fc5a34fe14c74c7ef047b9a\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.ToxicBakery.viewpager.transforms:view-pager-transforms:1.2.32] C:\Users\27049\.android\build-cache\252c8373b231c1d2438867ed526c7cfb962c6a78\output\AndroidManifest.xml:23:5-25:41
+MERGED from [com.youth.banner:banner:1.2.6] C:\Users\27049\.android\build-cache\a2e976c2e18538a470bd6e17479b37ab2d40b7de\output\AndroidManifest.xml:7:5-9:41
+MERGED from [fm.jiecao:jiecaovideoplayer:4.8.3] C:\Users\27049\.android\build-cache\d506476e1c3e558d8f408bba24b1636371d228fe\output\AndroidManifest.xml:8:5-11:104
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\27049\.android\build-cache\126f20fca7d32a137dc9f73b41a235c1e373591e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\27049\.android\build-cache\983ede0bfe95f728833f81887b7229ef4d677af6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\27049\.android\build-cache\76d2dc4106e221733e86a2c3bc1e663554158123\output\AndroidManifest.xml:21:5-43
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.7.4] C:\Users\27049\.android\build-cache\fe0b810fcb103e42cf64132a8f8bfc22c8ea8f2d\output\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.7.4] C:\Users\27049\.android\build-cache\bdb939418596ae6d0d4c40cfab54dc95e921f739\output\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-arm64:0.7.4] C:\Users\27049\.android\build-cache\ff2d76023f97625a99c515a12e4a298973dbd997\output\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-x86:0.7.4] C:\Users\27049\.android\build-cache\97b5e42a45eceb41c60f6c8ab0ef728fca22d14e\output\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-x86_64:0.7.4] C:\Users\27049\.android\build-cache\306374af2900ad36497574f8a9d86388972306a0\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] C:\Users\27049\.android\build-cache\f0bf1d2cd22d792b94de318424172d4c1e0145ec\output\AndroidManifest.xml:2:5-72
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\27049\.android\build-cache\1b886a93d2e8d5662cc9ca3282e30ba8a1020ab9\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\27049\.android\build-cache\f04540674ea438530a7f6c2e25453e80e15890ed\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\27049\.android\build-cache\7191091c3061059fadb6a9c689a1cce3d07f1ba9\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\27049\.android\build-cache\cae68cb0a2e3ae63c29b171fa7d225961cd705d9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\27049\.android\build-cache\666f090ba0ffbb0351d7f5475644b58ae5a99ef3\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\27049\.android\build-cache\8c7380fd396ea7a20751ed3c6ecf57578fbf039a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\27049\.android\build-cache\552e202f18d7133e1a78ba36ea0c8869bf4aa525\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\27049\.android\build-cache\beaa8fa082ca7396c126dc6c5149acda29c2efb2\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [fm.jiecao:jiecaovideoplayer:4.8.3] C:\Users\27049\.android\build-cache\d506476e1c3e558d8f408bba24b1636371d228fe\output\AndroidManifest.xml:11:9-101
+	android:targetSdkVersion
+		INJECTED from F:\news\app\src\main\AndroidManifest.xml
+		INJECTED from F:\news\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\news\app\src\main\AndroidManifest.xml
+		INJECTED from F:\news\app\src\main\AndroidManifest.xml

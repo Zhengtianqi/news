@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MsgDetailActivity">
+
+
+    <WebView
+        android:id="@+id/webView_msgDetail"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <ImageView
+        android:id="@+id/toolbar_msg"
+        android:clickable="true"
+        android:layout_width="53dp"
+        android:layout_height="53dp"
+        android:layout_gravity="bottom|right"
+        android:layout_margin="@dimen/fab_margin"
+        android:background="@mipmap/fanhui" />
+</RelativeLayout>
