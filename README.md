@@ -1,8 +1,9 @@
 Welcome to the news- wiki!
-# 天津师范大学软件学院14级郑天祺 模仿网易云新闻 初学者，文件摆放乱代码已经注释，望指点
+# 模仿网易云新闻 
 附图：
 ***
 ![](https://github.com/Zhengtianqi/news-/blob/master/IMG_0012.JPG)
+</br> 
 ![](https://github.com/Zhengtianqi/news-/blob/master/IMG_0013.JPG)
 ![](https://github.com/Zhengtianqi/news-/blob/master/IMG_0014.JPG)
 ![](https://github.com/Zhengtianqi/news-/blob/master/IMG_0015.JPG)
